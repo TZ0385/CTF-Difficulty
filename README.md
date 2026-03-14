@@ -1,14 +1,19 @@
-# CTF Difficulty Cheatsheet (Vulnhub)
+🧩 CTF Difficulty Cheatsheet
 
-This cheatsheet is aimed at CTF players and beginners to help them sort Vulnhub Labs on the basis of their difficulty. We have performed and compiled this list based on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
+A structured CTF difficulty classification cheat sheet designed for CTF players, penetration testers, and cybersecurity learners to help them select Capture-The-Flag labs based on their skill level.
 
-[1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
-[1.6]: https://www.linkedin.com/company/hackingarticles/
-[1.3]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png
-[1.4]: https://discord.com/invite/kyKvXwK4Bk
-[1.1]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png
-[1]: http://www.twitter.com/hackinarticles
-# Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
+## 🌐 Connect With Us
+
+🔵 **[Telegram – Join Channel](https://t.me/hackinarticles)**  
+⚫ **[Twitter/X – Follow Us](https://x.com/hackinarticles)**  
+🟣 **[Discord – Join Server](https://discord.com/invite/kyKvXwK4Bk)**  
+💼 **[LinkedIn – Follow HackingArticles](https://www.linkedin.com/company/hackingarticles)**  
+
+## 🎓 Training Program
+
+🚀 **[Join Our Cybersecurity Training Program](https://forms.gle/bowpX9TGEs41GDG99)**  
+
+Hands-on training in **Penetration Testing, Red Teaming, and Cybersecurity.**
 
 Table of Contents
 =================
